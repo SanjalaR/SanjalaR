@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @SanjalaR
 - 👀 I’m interested in gaining experience in the field of AI.
-- 🌱 I’m currently learning python, ML and web-dev. I'm doing my bachelor's in Computer Science and Engineering with a minor in Robotics.
+- 🌱 I’m currently learning python, ML and web-dev.
+- I'm doing my bachelor's in Computer Science and Engineering with a minor in Robotics.
+- Languages: Python, Java, C++, C, HTML, CSS
 
 
 <!---
